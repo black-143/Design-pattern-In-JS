@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+  background: #dedede;
+  text-align: center;
+}
+
+#app {
+  font-size: 2em;
+}
